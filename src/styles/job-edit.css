@@ -1,0 +1,9 @@
+.resp {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.resp > textarea {
+  min-height: 100px;
+}
